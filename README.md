@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ghero56
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on NeuraLink
-- 📫 Reach me at Facebook as ghero56
+- 👀 I’m interested in programming
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to work on Valve
+- 📫 Reach me at YouTube as ghero56
 
 <!---
 ghero56/ghero56 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
